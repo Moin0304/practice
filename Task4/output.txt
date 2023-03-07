@@ -1,0 +1,11 @@
+https://leetcode.com/problemset/all/,valid
+https://en.wikipedia.org/wiki/%22Hello%2C_World!%22_program,invalid
+https://www.amazon.com/dp/B07D7GZ34B?ref=myi_title_dp,invalid
+https://www.reddit.com/r/funny/comments/3cjmmq/til_that_in_chinese_giggling_is_written_as_kk/,invalid
+https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=42s,invalid
+https://www.instagram.com/p/CNIFpz9AjrC/?utm_source=ig_web_copy_link,invalid
+https://www.nytimes.com/,valid
+https://www.google.com/,valid
+https://www.facebook.com/,valid
+https://twitter.com/,valid
+https://www.linkedin.com/,valid

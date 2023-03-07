@@ -1,0 +1,6 @@
+Big data defined
+What exactly is big data? 
+The definition of big data is data that contains greater variety, 
+arriving in increasing volumes and with more velocity.
+This is also known as the three Vs.
+Put simply, big data is larger, more complex data sets, especially from new data sources.
